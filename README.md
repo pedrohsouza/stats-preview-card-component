@@ -5,7 +5,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [The challenge](#the-challenge)
   - [Links](#links)
 - [My process](#my-process)
